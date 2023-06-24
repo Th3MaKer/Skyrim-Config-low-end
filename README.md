@@ -1,4 +1,4 @@
-# Skyrim-oldrim-Config-low-end
+# Skyrim-Config-low-end
 this for low end pc if u having bad fps for the game 
 ### How To Use it
 u want copy the files to:<br/>
