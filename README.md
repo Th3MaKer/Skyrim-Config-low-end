@@ -7,5 +7,5 @@ or if you on linux<br/>
 /home/(your username)/.wine/drive_c/users/(your username)/Documents/<br/>
 ### What happends i get a messeage say overwrite/replace
 click yes (windows user)<br/>
-click yes (linux user)<br/>
+click yes/apply (linux user)<br/>
 
